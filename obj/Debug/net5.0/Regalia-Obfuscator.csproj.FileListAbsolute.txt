@@ -1,0 +1,5 @@
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.AssemblyInfo.cs
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.csproj.CoreCompileInputs.cache
