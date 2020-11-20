@@ -1,3 +1,3 @@
 # PP-RegaliaObfuscator
 
-Simple .NET character obfuscation tool
+A simple .NET chartype Obfuscator
