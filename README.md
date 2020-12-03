@@ -11,7 +11,7 @@ protect your application to 100%. There is no way to fully protect a .NET applic
 engineer the software.
 
 The obfuscator will rename the following parts:
-- Variables
+- Variables (Only arabic)
 - Functions
 - Symbols
 
@@ -26,4 +26,10 @@ The obfuscator will rename the following parts:
 
 -> Output file size: 5 KB
 
+## -- After Obfuscation --
+
+![so1]()
+![so2]()
+
+-> Output file size: 5 KB (±0)
 
