@@ -15,8 +15,7 @@ The obfuscator will rename the following parts:
 - Functions
 - Symbols
 
-App UI:
-![no1](https://i.imgur.com/26XNj6w.png)
+App UI: ![no1](https://i.imgur.com/26XNj6w.png)
 
 # Images
 
