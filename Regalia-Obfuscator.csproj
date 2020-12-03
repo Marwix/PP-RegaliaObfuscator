@@ -1,11 +1,22 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Regalia_Obfuscator</RootNamespace>
+    <StartupObject>Regalia_Obfuscator.Program</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Regalia">
+      <HintPath>Library\Regalia.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
   <ItemGroup>
     <Reference Include="Regalia">
       <HintPath>Library\Regalia.dll</HintPath>

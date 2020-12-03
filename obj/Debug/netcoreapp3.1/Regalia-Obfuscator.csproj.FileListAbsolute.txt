@@ -13,3 +13,7 @@ C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreap
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreapp3.1\Regalia-Obfuscator.dll
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreapp3.1\Regalia-Obfuscator.pdb
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreapp3.1\Regalia-Obfuscator.genruntimeconfig.cache
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreapp3.1\Regalia_Obfuscator.Window.resources
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\netcoreapp3.1\Regalia-Obfuscator.csproj.GenerateResource.cache
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\netcoreapp3.1\Regalia-Obfuscator.dll.config

@@ -3,3 +3,16 @@ C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Re
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.AssemblyInfoInputs.cache
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.AssemblyInfo.cs
 C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.exe
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.deps.json
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.runtimeconfig.json
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.runtimeconfig.dev.json
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\ref\Regalia-Obfuscator.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia-Obfuscator.pdb
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\bin\Debug\net5.0\Regalia.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.csproj.CopyComplete
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\ref\Regalia-Obfuscator.dll
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.pdb
+C:\Users\allan\Desktop\Regalia-Obfuscator\Regalia-Obfuscator\obj\Debug\net5.0\Regalia-Obfuscator.genruntimeconfig.cache
