@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Regalia-Obfuscator/1.0.0": {
+        "dependencies": {
+          "Regalia": "1.0.0.0"
+        },
+        "runtime": {
+          "Regalia-Obfuscator.dll": {}
+        }
+      },
+      "Regalia/1.0.0.0": {
+        "runtime": {
+          "Regalia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regalia-Obfuscator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Regalia/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
