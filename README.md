@@ -33,4 +33,4 @@ The obfuscator will rename the following parts:
 
 -> Output file size: 5 KB (±0)
 
-Errors and misinformation will be updated later on.
+Note: Errors and misinformation will be updated later on.
