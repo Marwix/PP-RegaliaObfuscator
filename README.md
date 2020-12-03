@@ -28,7 +28,7 @@ The obfuscator will rename the following parts:
 
 ## -- After Obfuscation --
 
-![so1]()
+![so1](https://i.imgur.com/MPEJnO5.png)
 ![so2]()
 
 -> Output file size: 5 KB (±0)
